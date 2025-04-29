@@ -1,2 +1,2 @@
-NMRFetch is designed to help Bruker NMR user to gather their NMR data through the somewhat complex root tree.
-It runs a python script which scans the designtated folder(s) and results in a sorted list of expno and procno. The user can either look for a specific caracter string in the title, in which case the result only lists the procno containing the string or choose to browse the whole folder(s). In the latter case, the result is the list of all procnos in this folder.
+NMRFetch is designed to help NMR users to gather their NMR data through the somewhat complex native Bruker root tree.
+It runs a python script which scans the designated folder(s) and results in a sorted list of expno and procno. The user can either look for a specific string of caracters in the title, in which case the result only lists the procno containing the string, or choose to browse the whole folder(s). In the latter case, the result is the list of all procnos in this folder.
